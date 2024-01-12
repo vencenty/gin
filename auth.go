@@ -13,6 +13,8 @@ import (
 	"github.com/gin-gonic/gin/internal/bytesconv"
 )
 
+const aa = "coco"
+
 // AuthUserKey is the cookie name for user credential in basic auth.
 const AuthUserKey = "user"
 
